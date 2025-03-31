@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ιδιαίτερα Μαθήματα Αγγλικών</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 0; padding: 0; }
+        header { background: #00509E; color: white; padding: 1rem; text-align: center; }
+        nav { background: #003366; color: white; padding: 0.5rem; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; }
+        section { padding: 2rem; }
+        footer { background: #00509E; color: white; text-align: center; padding: 1rem; margin-top: 2rem; }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ιδιαίτερα Μαθήματα Αγγλικών</h1>
+    </header>
+    <nav>
+        <a href="#about">Σχετικά</a>
+        <a href="#services">Υπηρεσίες</a>
+        <a href="#tips">Συμβουλές</a>
+        <a href="#contact">Επικοινωνία</a>
+    </nav>
+    <section id="about">
+        <h2>Σχετικά με εμένα</h2>
+        <p>Είμαι έμπειρος καθηγητής αγγλικών και προσφέρω εξατομικευμένα μαθήματα για μαθητές κάθε επιπέδου.</p>
+    </section>
+    <section id="services">
+        <h2>Υπηρεσίες</h2>
+        <p>Προσφέρω μαθήματα αγγλικών για αρχάριους, προχωρημένους και προετοιμασία εξετάσεων.</p>
+    </section>
+    <section id="tips">
+        <h2>Συμβουλές για την εκμάθηση αγγλικών</h2>
+        <p>Ανακαλύψτε τεχνικές και στρατηγικές για να βελτιώσετε τα αγγλικά σας γρήγορα και αποτελεσματικά.</p>
+    </section>
+    <section id="contact">
+        <h2>Επικοινωνία</h2>
+        <p>Μπορείτε να επικοινωνήσετε μαζί μου μέσω email ή τηλεφώνου.</p>
+    </section>
+    <footer>
+        <p>&copy; 2025 Ιδιαίτερα Μαθήματα Αγγλικών</p>
+    </footer>
+</body>
+</html>
